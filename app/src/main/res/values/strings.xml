@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MultiNotes</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_save">Save</string>
+
+    <!-- JSON-->
+    <string name="notes_backup_file">notes.json</string>
+    <string name="no_notes_backup_file">notes.json not found</string>
+
+    <string name="note_titles">note_title</string>
+    <string name="note_dates">note_date</string>
+    <string name="note_texts">note_text</string>
+
+    <!-- TOASTs-->
+    <string name="note_saved">Your note has been saved</string>
+
+    <!-- Views default values -->
+    <string name="note_default_title">Title</string>
+    <string name="note_default_text">Your note description here</string>
+
+    <!-- About -->
+    <string name="copyright">©2020, Gregoire de Faup</string>
+    <string name="version">Version 1.0</string>
+
+</resources>
